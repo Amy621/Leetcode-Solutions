@@ -1,3 +1,7 @@
+// Time complexity: O(nm + n2)
+// Intended complexity: O(n + m)
+// Notes: instead of the insertion operation, which shifts the array elements to the right, an O(N) operation, we could overwrite the values using a 3 pointer approach.
+// Beats 100% of submissions, but a better solution exists.
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2,int n) {
