@@ -6,7 +6,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/Amy621/Leetcode/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/Amy621/Leetcode/tree/master/0001-two-sum) | O(N) solution: iterate through list, saving index per element. then iterate over list again using unordered map for lookups. the set is used as multiple elements can appear in our list.
 | [0088-merge-sorted-array](https://github.com/Amy621/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0940-fruit-into-baskets](https://github.com/Amy621/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amy621/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
