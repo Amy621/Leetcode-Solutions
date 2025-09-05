@@ -1,0 +1,1 @@
+O(N) solution: iterate through list, saving index per element. then iterate over list again using unordered map for lookups. the set is used as multiple elements can appear in our list.
