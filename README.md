@@ -24,11 +24,13 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amy621/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amy621/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/Amy621/Leetcode/tree/master/0383-ransom-note) |
 | [0940-fruit-into-baskets](https://github.com/Amy621/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amy621/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/Amy621/Leetcode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -37,6 +39,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amy621/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/Amy621/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amy621/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
