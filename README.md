@@ -8,12 +8,14 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | ------- |
 | [0001-two-sum](https://github.com/Amy621/Leetcode/tree/master/0001-two-sum) | 
 | [0088-merge-sorted-array](https://github.com/Amy621/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Amy621/Leetcode/tree/master/0283-move-zeroes) |
 | [0940-fruit-into-baskets](https://github.com/Amy621/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amy621/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amy621/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Amy621/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
