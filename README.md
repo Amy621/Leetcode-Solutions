@@ -48,4 +48,8 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amy621/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Amy621/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
