@@ -3,10 +3,10 @@ public:
     string reverseWords(string s) {
         string ans, tmp;
         int len = s.size();
-        for(int i = 0; i < len; i++){
+        reverse(s.begin(), s.end());
+        for(int i = len-1; i >= 0; i--){
             if(s[i] == ' '){
                 reverse(tmp.begin(), tmp.end());
-                //cout << "tmp: " << tmp << "\n";
                 ans += tmp;
                 ans += ' ';
                 tmp = "";
