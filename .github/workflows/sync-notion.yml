@@ -1,0 +1,24 @@
+name: Automate Leetcode problem tracking on Notion
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-notion:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Build and Run sync
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DB_ID: ${{ secrets.NOTION_DB_ID }}
+        run: |
+          go run .github/scripts/sync_notion.go
