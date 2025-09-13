@@ -135,4 +135,10 @@ func updateNotion(pageID string) {
 
 	}
 	defer resp.Body.Close()
+	if resp.StatusCode >= 200 && resp.StatusCode < 300 {
+		fmt.Println("✅ Notion page updated successfully:", pageID)
+	} else {
+		bodyResp, _ := io.ReadAll(resp.Body)
+		fmt.Printf("❌ Failed to update Notion page. Status: %s, Response: %s\n", resp.Status, string(bodyResp))
+	}
 }
