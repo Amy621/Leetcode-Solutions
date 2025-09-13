@@ -46,7 +46,7 @@ func formatProblemName(filename string) string {
 
 func main() {
 	// Get changed files in last commit
-	cmd := exec.Command("git", "diff", "--name-only", "--pretty=", "HEAD")
+	cmd := exec.Command("git", "show", "--name-only", "--pretty=", "HEAD")
 	out, err := cmd.Output()
 	if err != nil {
 		panic(err)
