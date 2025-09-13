@@ -15,7 +15,12 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version: '1.22'
-
+          
+      - name: Initialize Go module
+        run: |
+          go mod init my-notion-sync || true
+          go get golang.org/x/text/cases
+          go get golang.org/x/text/language
       - name: Build and Run sync
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
