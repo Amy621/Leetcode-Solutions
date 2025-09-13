@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"io"
 	"net/http"
 	"os"
 	"os/exec"
@@ -129,7 +130,9 @@ func updateNotion(pageID string) {
 
 	resp, err := http.DefaultClient.Do(req)
 	if err != nil {
-		panic(err)
+		bodyResp, _ := io.ReadAll(resp.Body)
+		fmt.Println(string(bodyResp))
+
 	}
 	defer resp.Body.Close()
 }
