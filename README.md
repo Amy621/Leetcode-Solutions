@@ -32,6 +32,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amy621/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/Amy621/Leetcode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/Amy621/Leetcode/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amy621/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Counting
