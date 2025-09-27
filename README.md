@@ -8,6 +8,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | ------- |
 | [0001-two-sum](https://github.com/Amy621/Leetcode/tree/master/0001-two-sum) | 
 | [0088-merge-sorted-array](https://github.com/Amy621/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Amy621/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Amy621/Leetcode/tree/master/0283-move-zeroes) |
 | [0940-fruit-into-baskets](https://github.com/Amy621/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amy621/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -26,6 +27,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | ------- |
 | [0001-two-sum](https://github.com/Amy621/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amy621/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Amy621/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/Amy621/Leetcode/tree/master/0383-ransom-note) |
 | [0940-fruit-into-baskets](https://github.com/Amy621/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## String
@@ -53,4 +55,8 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Amy621/Leetcode/tree/master/0009-palindrome-number) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amy621/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
