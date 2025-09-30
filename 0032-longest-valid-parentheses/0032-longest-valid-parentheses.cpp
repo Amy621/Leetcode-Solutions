@@ -8,7 +8,7 @@ public:
         stack<char> s1;  
 
         for (int i = 0; i < len; i++) {
-            if (s[i] == '(' || s[i] == '[' || s[i] == '{') {
+            if (s[i] == '(') {
                 s1.push(s[i]);
                 mp[s[i]].push_back(i); // push opening placement
           
@@ -21,31 +21,31 @@ public:
 
                 char ch = s1.top();
            
-                if ((s[i] == ']' && ch != '[') ||
-                    (s[i] == ')' && ch != '(') ||
-                    (s[i] == '}' && ch != '{')) {
+                if (s[i] == ')' && ch != '(') {
                     while (!s1.empty()) s1.pop(); // discard and start at beginning of unmatched closing
                     mp.clear();
                    
                     end_string = i;
                     continue;
-                }
-
+                
+            }
+              
                 s1.pop(); // matched
                
-                mp[ch].pop_back(); // delete it
+                mp['('].pop_back(); // delete it
 
                 int cur;
                 if (s1.empty()) { // fully matched substring
                     cur = i - end_string;  // distance from closed
                 } else {
-                    cur = i - mp[s1.top()].back(); // distance from last unmatched opening
+                    cur = i - mp['('].back(); // distance from last unmatched opening
                 }
 
                
                 maxi = max(maxi, cur);
             }
         }
+        
 
           
 
