@@ -11,6 +11,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [0128-longest-consecutive-sequence](https://github.com/Amy621/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Amy621/Leetcode/tree/master/0283-move-zeroes) |
 | [0940-fruit-into-baskets](https://github.com/Amy621/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Amy621/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amy621/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Two Pointers
@@ -23,6 +24,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amy621/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Amy621/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Hash Table
 |  |
@@ -48,6 +50,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Amy621/Leetcode/tree/master/0383-ransom-note) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Amy621/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Amy621/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Sliding Window
@@ -78,4 +81,8 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amy621/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amy621/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Amy621/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
