@@ -3,7 +3,7 @@ public:
     int findLeastNumOfUniqueInts(vector<int>& arr, int k) {
         int len = arr.size();
 
-       map<int, int> mp;
+       unordered_map<int, int> mp;
 
         for(auto &v : arr) mp[v]++;
 
