@@ -33,6 +33,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [0383-ransom-note](https://github.com/Amy621/Leetcode/tree/master/0383-ransom-note) |
 | [0940-fruit-into-baskets](https://github.com/Amy621/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Amy621/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## String
 |  |
 | ------- |
@@ -42,11 +43,13 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [0058-length-of-last-word](https://github.com/Amy621/Leetcode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/Amy621/Leetcode/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amy621/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Amy621/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Amy621/Leetcode/tree/master/0383-ransom-note) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Amy621/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 ## Sliding Window
 |  |
 | ------- |
