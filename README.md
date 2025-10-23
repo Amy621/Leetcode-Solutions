@@ -46,6 +46,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [0383-ransom-note](https://github.com/Amy621/Leetcode/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amy621/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Amy621/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amy621/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Amy621/Leetcode/tree/master/0009-palindrome-number) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amy621/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
 |  |
 | ------- |
@@ -85,4 +87,16 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Amy621/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amy621/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amy621/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amy621/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
