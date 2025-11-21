@@ -8,6 +8,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | ------- |
 | [0001-two-sum](https://github.com/Amy621/Leetcode/tree/master/0001-two-sum) | 
 | [0056-merge-intervals](https://github.com/Amy621/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Amy621/Leetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Amy621/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Amy621/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/Amy621/Leetcode/tree/master/0283-move-zeroes) |
