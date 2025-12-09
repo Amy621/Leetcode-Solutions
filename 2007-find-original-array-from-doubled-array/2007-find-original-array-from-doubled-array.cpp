@@ -7,7 +7,10 @@ public:
 // we need to match smallest to largest
     vector<int> findOriginalArray(vector<int>& changed) {
 
-        sort(changed.begin(), changed.end());
+        //sort(changed.begin(), changed.end());
+
+        vector<int> freq(100001, 0);
+
         unordered_map<int, int> mp;
         int len = changed.size();
          
@@ -15,24 +18,29 @@ public:
         
         vector<int> ans;
         if(len % 2 != 0) return ans;
-        for(auto &v : changed){
-            if(mp[v] == 0) continue; // we already matched this guy
-            if(mp[v*2] != 0 && ans.size() < len / 2){
-                        if(v * 2 == 0 && mp[v*2] < 2) continue;
-                  
-                        ans.push_back(v);
-                        mp[v*2]--;
-                        mp[v]--; // when we match, remove both instances
-                    
+
+        for(int i = 0; i < 100001; i++){
+           while(mp[i] > 0){
+                if (i == 0) {
+                    if (mp[0] < 2) break;
+                    ans.push_back(0);
+                    mp[0] -= 2;
+                    continue;
                 }
+                
+                if (mp[2 * i] <= 0) break;
+
+                ans.push_back(i);
+                mp[i]--;
+                mp[2 * i]--;
             }
-        
+        }
 
+       
+            if(ans.size() != len / 2) ans.clear();
+            return ans;
 
-        if(ans.size() != len / 2) ans.clear();
-        return ans;
-
-        
+            
         
     }
 };
