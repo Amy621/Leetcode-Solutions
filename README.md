@@ -76,6 +76,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Amy621/Leetcode/tree/master/0009-palindrome-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amy621/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amy621/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amy621/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
