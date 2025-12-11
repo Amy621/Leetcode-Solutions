@@ -18,6 +18,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amy621/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amy621/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/Amy621/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Amy621/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amy621/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [3531-count-covered-buildings](https://github.com/Amy621/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +45,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amy621/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Amy621/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3531-count-covered-buildings](https://github.com/Amy621/Leetcode/tree/master/3531-count-covered-buildings) |
 ## String
 |  |
 | ------- |
