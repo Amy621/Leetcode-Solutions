@@ -17,6 +17,7 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amy621/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Amy621/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amy621/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Amy621/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amy621/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Amy621/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Two Pointers
@@ -75,11 +76,13 @@ My solutions to various Leetcode problems - Created using [LeetHub v2](https://g
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Amy621/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amy621/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Amy621/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Amy621/Leetcode/tree/master/0009-palindrome-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amy621/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Amy621/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amy621/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Amy621/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
